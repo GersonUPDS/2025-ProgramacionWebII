@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miprimeraApi", "miprimeraApi.csproj", "{0F3F247D-624C-4B86-B00C-3FDB420C6BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3F247D-624C-4B86-B00C-3FDB420C6BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3F247D-624C-4B86-B00C-3FDB420C6BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3F247D-624C-4B86-B00C-3FDB420C6BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3F247D-624C-4B86-B00C-3FDB420C6BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB65613-EEBE-4FAF-8DD0-4EDA594A3341}
+	EndGlobalSection
+EndGlobal
